@@ -1,8 +1,8 @@
 **Topic:** Predicting Whether a Product Will Be in Instacart Users' Next Order
 
-**Presentation.** Presentation can be found [here](https://github.com/vlazovskiy/sf18_ds9/blob/master/student_submissions/projects/mcnulty/lazovskiy_vladimir/Predicting_customer_orders_with_instacart.pdf).
+**Presentation.** Presentation can be found [here](https://github.com/vlazovskiy/predicting-instacart-purchases/blob/master/Predicting_customer_orders_with_instacart.pdf).
 
-**EDA.** Some EDA Tableau visuzliations can be found [here](https://github.com/vlazovskiy/sf18_ds9/blob/master/student_submissions/projects/mcnulty/lazovskiy_vladimir/EDA%20with%20Tableau.md).
+**EDA.** Some EDA Tableau visuzliations can be found [here](https://github.com/vlazovskiy/predicting-instacart-purchases/blob/master/EDA_with_Tableau.md).
 
 **Project goal.** The goal of my project is to predict whether a customer will reoder a certain product. Essentially, this a classification problem with two classes: 1 if a user reorders a product and 0 otherwise. The data set was taken from [Kaggle](https://kaggle.com/c/instacart-market-basket-analysis/data), and the preliminary model relies on the baseline work taken from [here](https://github.com/JEddy92/Metis-Project3-InstacartKaggle).
 
