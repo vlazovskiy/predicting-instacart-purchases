@@ -1,4 +1,4 @@
-**Topic:** Predicting Whether a Product Will Be in Instacart Users' Next Order
+**Project:** Predicting Whether a Product Will Be in Instacart Users' Next Order
 
 **Presentation.** Presentation can be found [here](https://github.com/vlazovskiy/predicting-instacart-purchases/blob/master/Predicting_customer_orders_with_instacart.pdf).
 
